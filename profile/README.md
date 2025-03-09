@@ -12,6 +12,8 @@
 - Elahe Ehteshami
 - Mojgan Farhoudi
 - Erfan Shakouri
+- Marziye Sadat Aleayob
+
 
 ## Introduction
 The subject of Artificial Intelligence (AI) and its applications has been at the forefront of strategic programs in developed countries in recent years. It is predicted that AI will have profound impacts on various aspects of human life in the coming years. In response to this trend, the Innovation and Development Center for Artificial Intelligence was established within the research institute with the aim of focusing on planning and implementing research activities centered around AI. The center has now officially commenced its operations.
