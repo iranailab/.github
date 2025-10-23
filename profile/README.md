@@ -5,14 +5,18 @@
 
 
 ## Chairman
-**Mohammad Hadi Bokaei**
+**Mohammad Hadi Bokaei and -Mojgan Farhoudi**
 
 ## Members
-- Alireza Parvaresh
-- Elahe Ehteshami
-- Mojgan Farhoudi
-- Erfan Shakouri
-- Marziye Sadat Aleayob
+  - Alireza Parvaresh — Head of Technical (DevOps & Software Engineering)
+  
+  - Elahe Ehteshami — Software Engineer
+  
+  - Marziye Sadat Aleayob — Head of LLM
+  
+  - Mostafa Tahajomi — Front-End Developer
+  
+  - Fatemeh Ebrahimi — Designer
 
 
 ## Introduction
