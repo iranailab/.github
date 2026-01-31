@@ -9,14 +9,12 @@
 
 ## Members
   - Alireza Parvaresh — Head of Technical (DevOps & Software Engineering)
-  
+  - Alireza Azad - Software Engineer
   - Elahe Ehteshami — Software Engineer
-  
   - Marziye Sadat Aleayob — Head of LLM
-  
-  - Mostafa Tahajomi — Front-End Developer
-  
+  - Amirhossein Rafizadeh - Ai Engineer
   - Fatemeh Ebrahimi — Designer
+  - Melina Ekhtiari - Secretariat Manager ISO
 
 
 ## Introduction
